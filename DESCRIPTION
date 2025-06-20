@@ -18,6 +18,6 @@ RoxygenNote: 7.3.2
 Depends: R (>= 2.10)
 LazyData: true
 NeedsCompilation: no
-Packaged: 2025-06-19 08:35:48 UTC; danc
+Packaged: 2025-06-20 11:18:27 UTC; danc
 Author: Dan Carpenter [aut, cre, cpt]
 Maintainer: Dan Carpenter <dan@dan-carpenter.co.uk>
